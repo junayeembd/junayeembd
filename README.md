@@ -13,6 +13,8 @@ Welcome to my GitHub! 👋 I’m Nayeem, a Computer Science and Engineering (CSE
 
 -Learning Path: Focused on mastering fundamental programming concepts and applying them through real-world projects.
 
+📚 Always learning and exploring new technologies!
+
 
 💻 Skills
    
