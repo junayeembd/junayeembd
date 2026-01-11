@@ -5,7 +5,7 @@ Welcome to my GitHub! 👋 I’m Nayeem, a Computer Science and Engineering (CSE
 
 -Name: Jannat Ul Nayeem
 
--Degree: Computer Science and Engineering (CSE)
+-B.Sc: Computer Science and Engineering (CSE)
 
 -Skills: C, C++, Problem Solving, Data Structures, Algorithms
 
