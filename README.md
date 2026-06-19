@@ -1,100 +1,83 @@
-Welcome to my GitHub! 👋 I’m Nayeem, a Computer Science and Engineering (CSE) student. I'm passionate about programming, algorithms, and software development. Currently, I am focusing on expanding my knowledge in C and C++ while working on various projects. Feel free to explore my work below!
+# Hi, I'm Jannat Ul Nayeem 👋
 
-📌 About Me
+🎓 Computer Science & Engineering (CSE) Student
 
+💻 Passionate about Software Development, Problem Solving, Data Structures, Algorithms, and Computer Networks.
 
--Name: Jannat Ul Nayeem
+🚀 Currently working on real-world software projects and improving my programming skills.
 
--B.Sc: Computer Science and Engineering (CSE)
+---
 
--Skills: C, C++, Problem Solving, Data Structures, Algorithms
+## 🛠 Skills
 
--Current Focus: Improving my coding skills, learning new technologies, and solving complex problems.
+### Programming Languages
+- C
+- C++
+- Python
+- Java
 
--Learning Path: Focused on mastering fundamental programming concepts and applying them through real-world projects.
+### Technologies & Tools
+- Git & GitHub
+- MySQL
+- CustomTkinter
+- VS Code
+- XAMPP
 
-📚 Always learning and exploring new technologies!
+### Core Knowledge
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems
+- Software Engineering
+- Computer Networks
 
+---
 
-💻 Skills
-   
-Programming Languages:
-     
-  -C: Proficient in basic and advanced concepts, including memory management, pointers, and structures.
-  
-  -C++: Experience with object-oriented programming, STL (Standard Template Library), and algorithm optimization.
-  
+## 🚀 Featured Projects
 
-⚙️Tools & Technologies:
+### 🚖 GOMON – Ride Sharing and Transportation Management System
+- Desktop-based transportation management system
+- User, Driver, Admin & Super Admin modules
+- OTP Verification
+- Ride Booking & Management
+- Python + CustomTkinter
 
--Version Control: Git, GitHub
+### 🚦 Traffic Management System
+- User & Admin Panel
+- Vehicle and License Management
+- Traffic Violation Tracking
+- Report Generation
+- Developed in C Language
 
--IDE: Visual Studio, Code::Blocks
+### 🌱 Smart Soil Moisture Monitoring and Automatic Irrigation System
+- ESP32 Based IoT Project
+- Automatic Water Pump Control
+- Soil Moisture Monitoring
+- Blynk Integration
 
--Others: Debugging, Code Optimization, Problem-Solving, Software Development Lifecycle
+---
 
+## 📚 Currently Learning
 
-📚 Current Study Focus
+- Advanced Java Programming
+- Software Testing & Documentation
+- Database Design
+- Computer Networking
+- System Analysis & Design
 
- I am currently deepening my understanding of core computer science topics, such as:
+---
 
--Data Structures: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs
+## 🌐 Connect With Me
 
--Algorithms: Sorting, Searching, Dynamic Programming, Recursion
+📧 Email: junayeemofficial@gmail.com
 
--Operating Systems: Memory Management, Process Scheduling, File Systems
+💼 LinkedIn: https://linkedin.com/in/junayeembd
 
--Software Engineering: Basic Design Patterns, Code Efficiency, Testing
+🐦 X (Twitter): https://x.com/junayeembd
 
+🏆 Codeforces: https://codeforces.com/profile/junayeembd
 
-🚀 Projects
-***🚘Traffic Management System**
+💻 HackerRank: https://www.hackerrank.com/junayeembd
 
-⛳Technology: C Language
+---
 
- 🗺️Course: CSE100
-
-🚨Description:
-
-This C-based Traffic Management System handles user and admin functionalities using file handling for data storage. The system includes:
-
-👤👤User Panel: Users can register, view, and add car and license details. They can view traffic rules and violations but cannot edit or delete data.
-
-👤Admin Panel: Admin has full control to manage users, cars, licenses, violations, traffic rules, and generate reports.
-
-⛳Features:
-
--Login/Registration: Secure user authentication.
-
--Car & License Management: Users add car details (model, number plate, etc.) and licenses (issue & expiry dates).
-
--Data Validation: Ensures no duplicate registrations, proper date formats, and checks expiry dates.
-
--Violation & Fines: Admin can mark fines as paid/unpaid.
-
--Notifications: Alerts users when licenses are about to expire.
-
--Reports & Search: Admin can generate reports and search through records based on multiple parameters.
-
-🧷Files:
-
-***📝Main.c, user.c, car.c, license.c, violation.c, traffic_rules.c, admin.c, utils.c, header.h
-
-
-📫 How to Reach Me
-
-📩Email: [junayeemofficial@gmail.com]
-
-LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/junayeembd/)]
-
-Twitter: [[@junayeembd](https://x.com/junayeembd)]
-
-
-🌐 Profile
-
-Codeforces: [junayeembd](https://codeforces.com/profile/junayeembd)
-
-HackerRank: [junayeembd](https://www.hackerrank.com/junayeembd)
-
-
-Feel free to reach out if you want to collaborate, discuss projects, or share your thoughts!😊
+⭐ Always learning, building, and improving.
