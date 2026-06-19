@@ -72,7 +72,7 @@
 
 💼 LinkedIn: https://linkedin.com/in/junayeembd
 
-🐦 X (Twitter): https://x.com/junayeembd
+X (Twitter): https://x.com/junayeembd
 
 🏆 Codeforces: https://codeforces.com/profile/junayeembd
 
