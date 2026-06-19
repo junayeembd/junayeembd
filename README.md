@@ -2,7 +2,7 @@
 
 🎓 Computer Science & Engineering (CSE) Student
 
-💻 Passionate about Software Development, Problem Solving, Data Structures, Algorithms, and Computer Networks.
+💻 Passionate about Software Development, Problem Solving, Data Structures, Algorithms and Computer Networks.
 
 🚀 Currently working on real-world software projects and improving my programming skills.
 
@@ -39,7 +39,7 @@
 - User, Driver, Admin & Super Admin modules
 - OTP Verification
 - Ride Booking & Management
-- Python + CustomTkinter
+- Python + CustomTkinter+ GUI
 
 ### 🚦 Traffic Management System
 - User & Admin Panel
