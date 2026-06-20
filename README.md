@@ -1,6 +1,6 @@
-# Hi, I'm Jannat Ul Nayeem 👋
-
-🎓 Computer Science & Engineering (CSE) Student
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Jannat+Ul+Nayeem;Computer+Science+and+Engineering+;(CSE)+Student;Software+Developer;Python+Java+C%2B%2B;Problem+Solver" />
+</p>
 
 💻 Passionate about Software Development, Problem Solving, Data Structures, Algorithms and Computer Networks.
 
@@ -15,6 +15,16 @@
 - C++
 - Python
 - Java
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junayeembd&layout=compact&theme=tokyonight)
+
+<h2>🛠 Tech Stack</h2>
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,git,github,vscode" />
+</p>
 
 ### Technologies & Tools
 - Git & GitHub
@@ -80,4 +90,18 @@ X (Twitter): https://x.com/junayeembd
 
 ---
 
-⭐ Always learning, building, and improving.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Always+Learning+,Bulding;and+Improving⭐" />
+</p>
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junayeembd&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=junayeembd&theme=tokyonight)
+
+## 📈 Contribution Graph
+
+[![Nayeem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=junayeembd&theme=tokyo-night)](https://github.com/junayeembd)
