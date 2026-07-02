@@ -23,19 +23,12 @@
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junayeembd&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junayeembd&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=junayeembd&theme=tokyonight"/>
 </p>
 
-   
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayeembd&layout=compact&theme=tokyonight"/>
-</p>
-
-<h2>🛠 Tech Stack</h2>
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,git,github,vscode" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayeembd&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
 
 ### Technologies & Tools
