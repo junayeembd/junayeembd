@@ -58,7 +58,7 @@
 
 ### 🚖 GOMON – Ride Sharing and Transportation Management System
 
-🔗 GitHub Repository: [GOMON](https://github.com/junayeembd/GOMON)
+🔗 GitHub Repository: [GOMON](https://github.com/junayeembd/gomon-ride-for-everyone)
 
 - Desktop-based transportation management system
 - User, Driver, Admin & Super Admin modules
