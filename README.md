@@ -239,3 +239,7 @@ Developed across two technology implementations:
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Always+Learning+%F0%9F%9A%80;Always+Building+%F0%9F%92%BB;Always+Improving+%E2%AD%90" alt="Footer Animation"/>
 
 </div>
+
+## 💡 Quote
+
+> "Code. Learn. Build. Improve. Repeat."
