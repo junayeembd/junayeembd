@@ -1,244 +1,283 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ================================================= -->
+<!--                 PROFILE HEADER                  -->
+<!-- ================================================= -->
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=60&lines=Hi%2C+I'm+Jannat+Ul+Nayeem;CSE+Student+at+BUBT;Aspiring+Software+Developer;Competitive+Programming+Enthusiast;Building+Ideas+Into+Reality" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=36BCF7&left=true&vCenter=true&width=850&height=60&lines=Hi%2C+I'm+Jannat+Ul+Nayeem;Computer+Science+%26+Engineering+Student;Aspiring+Software+Developer;Competitive+Programming+Enthusiast;Building+Ideas+Into+Reality" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=junayeembd&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=junayeembd&label=PROFILE+VIEWS&color=36BCF7&style=flat-square" alt="Profile Views"/>
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/junayeembd">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://codeforces.com/profile/junayeembd">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/junayeembd">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junayeembd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/junayeembd)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/junayeembd)
 
-### `Code • Learn • Build • Improve`
-
-</div>
+**Code • Learn • Build • Improve**
 
 ---
+
+<!-- ================================================= -->
+<!--                    ABOUT ME                      -->
+<!-- ================================================= -->
 
 ## 👨‍💻 About Me
 
 I'm **Jannat Ul Nayeem**, a Computer Science and Engineering student at **Bangladesh University of Business and Technology (BUBT)**.
 
-- 🎓 CSE Student at BUBT
-- 💻 Interested in Software Development & Problem Solving
-- 🚀 Building desktop applications and IoT projects
-- 🧠 Practicing Data Structures & Algorithms
-- 🌱 Exploring AI, Backend and Full-Stack Development
-- 🎯 Working towards becoming a skilled Software Developer
+- 🎓 Studying Computer Science & Engineering at BUBT.
+- 💻 Interested in Software Development and Problem Solving.
+- 🚀 Building Desktop Applications and Real-World Projects.
+- 🧠 Practicing Data Structures and Algorithms.
+- 🌱 Exploring Backend Development, AI and IoT.
+- 🎯 Working towards becoming a skilled Software Developer.
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ================================================= -->
+<!--                    TECH STACK                     -->
+<!-- ================================================= -->
 
-<div align="left">
+## 🛠️ Technical Skills
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java" alt="Programming Languages"/>
 
-### Database & Tools
+### Database & Development Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,maven" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux" alt="Database and Development Tools"/>
 
 ### Frameworks & Technologies
 
-<img src="https://skillicons.dev/icons?i=flask,arduino" />
+<img src="https://skillicons.dev/icons?i=flask,arduino" alt="Frameworks and Technologies"/>
 
-<br/><br/>
+### Additional Technologies
 
-<img src="https://img.shields.io/badge/Java%20Swing-GUI%20Development-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/CustomTkinter-Python%20GUI-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/FlatLaf-Java%20UI-36BCF7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Blynk-IoT-green?style=flat-square"/>
+![Java Swing](https://img.shields.io/badge/Java%20Swing-GUI%20Development-orange?style=flat-square)
+![FlatLaf](https://img.shields.io/badge/FlatLaf-Java%20UI-36BCF7?style=flat-square)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-Python%20GUI-blue?style=flat-square)
+![Maven](https://img.shields.io/badge/Maven-Build%20Tool-C71A36?style=flat-square)
+![Blynk](https://img.shields.io/badge/Blynk-IoT-green?style=flat-square)
 
-</div>
+### Core Computer Science Knowledge
 
-### Core Knowledge
-
-`OOP` · `DSA` · `DBMS` · `SQL` · `Computer Networks` · `Software Engineering`
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
+- Database Management Systems (DBMS)
+- Structured Programming
+- Computer Networks
+- Software Engineering
+- SQL and Database Design
 
 ---
+
+<!-- ================================================= -->
+<!--                  FEATURED PROJECTS                -->
+<!-- ================================================= -->
 
 ## 🚀 Featured Projects
 
-### 🚖 GOMON — Ride for Everyone
+### 01. 🚖 GOMON — Ride for Everyone
 
 **Desktop-Based Ride Sharing Management System**
 
-Developed across two technology implementations:
+GOMON is a ride-sharing management system developed through two different technology implementations.
 
-**Version 1 — Python**
-- Python + CustomTkinter GUI
-- MySQL Database
-- User, Driver and Admin modules
-- Ride booking and management
+**Version 1 — Python Implementation**
 
-**Version 2 — Java**
-- Java 17 + Java Swing
-- FlatLaf UI
-- Maven Project Structure
-- MySQL Database
-- Role-Based Access Control and OTP Verification
+- Desktop GUI using CustomTkinter.
+- MySQL Database Integration.
+- User, Driver and Admin Modules.
+- Ride Booking and Management.
+- Authentication and User Management.
 
-<a href="https://github.com/junayeembd/gomon-ride-for-everyone">
-<img src="https://img.shields.io/badge/Explore_GOMON-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**Technology Stack**
 
-### 🌿 FloraVision — AI Smart Gardening Assistant
+`Python` `CustomTkinter` `MySQL`
 
-**AI-Based Smart Gardening Concept**
+**Version 2 — Java Implementation**
 
-- Plant disease detection from leaf images
-- Soil moisture and environmental monitoring
-- Smart watering recommendations
-- Plant health management
+- Java Swing Desktop Application.
+- Java 17 and FlatLaf UI.
+- Maven Project Structure.
+- MySQL Database Integration.
+- Role-Based Access Control.
+- User, Driver, Admin and Super Admin Modules.
+- OTP Verification and Ride Management.
 
-`Python` · `Flask` · `MySQL` · `Machine Learning` · `IoT`
+**Technology Stack**
 
-### 🌱 Smart Soil Moisture Monitoring
+`Java 17` `Java Swing` `FlatLaf` `MySQL` `Maven`
+
+[![Explore GOMON](https://img.shields.io/badge/Explore_GOMON-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junayeembd/gomon-ride-for-everyone)
+
+---
+
+### 02. 🌿 FloraVision — AI Smart Gardening Assistant
+
+**AI-Based Smart Gardening Assistant**
+
+An AI and IoT-based smart gardening project concept focused on plant health monitoring and intelligent gardening assistance.
+
+- Plant Disease Detection from Leaf Images.
+- Soil Moisture Monitoring.
+- Temperature and Environmental Monitoring.
+- Smart Watering Recommendations.
+- Plant Health Management.
+
+**Technology Stack**
+
+`Python` `Flask` `MySQL` `Machine Learning` `IoT`
+
+---
+
+### 03. 🌱 Smart Soil Moisture Monitoring System
 
 **Automatic Irrigation System**
 
-- ESP32-based monitoring
-- Automatic water pump control
-- Soil moisture monitoring
-- Temperature and humidity sensing
-- Blynk IoT integration
+An IoT-based system designed to monitor soil conditions and control irrigation automatically.
 
-`ESP32` · `Arduino` · `DHT11` · `Sensors` · `Blynk`
+- ESP32-Based Monitoring.
+- Automatic Water Pump Control.
+- Capacitive Soil Moisture Sensor.
+- Temperature and Humidity Monitoring.
+- Blynk IoT Integration.
 
-### 🚦 Traffic Management System
+**Hardware & Technologies**
+
+`ESP32` `Arduino` `DHT11` `Soil Sensor` `Blynk`
+
+---
+
+### 04. 🚦 Traffic Management System
 
 **C-Based Traffic Management Application**
 
-- User and Admin modules
-- Vehicle and License Management
-- Traffic Violation Tracking
-- Report Generation
+A structured programming project designed to manage traffic-related information.
 
-`C` · `Structured Programming`
+- User and Admin Modules.
+- Vehicle Management.
+- License Management.
+- Traffic Violation Tracking.
+- Report Generation.
+
+**Technology Stack**
+
+`C` `Structured Programming`
 
 ---
+
+<!-- ================================================= -->
+<!--              COMPETITIVE PROGRAMMING             -->
+<!-- ================================================= -->
 
 ## 🧩 Competitive Programming
 
-<div align="left">
+[![Codeforces](https://img.shields.io/badge/Codeforces-junayeembd-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/junayeembd)
 
-<a href="https://codeforces.com/profile/junayeembd">
-<img src="https://img.shields.io/badge/Codeforces-junayeembd-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
+**Programming Language:** C++17
 
-<br/><br/>
+**Current Practice Level:** 800-Rated Problems
 
-### Current Practice
+**Next Practice Milestone:** 900–1000
 
-# 800 Rated Problems
+**Long-Term Target:** 1200+
 
-`C++17` · `Implementation` · `Math` · `Greedy` · `Problem Solving`
+### Topics I Practice
 
-### 🎯 Next Target: 1200+
+`Implementation` · `Basic Math` · `Brute Force` · `Greedy` · `Sorting` · `Strings`
 
-<a href="https://github.com/junayeembd/Codeforces-Solutions">
-<img src="https://img.shields.io/badge/Codeforces_Solutions-View_Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
+[![Codeforces Solutions](https://img.shields.io/badge/Codeforces_Solutions-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junayeembd/Codeforces-Solutions)
 
 ---
+
+<!-- ================================================= -->
+<!--                  GITHUB STATISTICS               -->
+<!-- ================================================= -->
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<img width="75%" src="https://github-readme-stats.vercel.app/api?username=junayeembd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=junayeembd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayeembd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayeembd&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
-<br/><br/>
+<br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=junayeembd&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
+<img width="75%" src="https://streak-stats.demolab.com?user=junayeembd&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 ---
+
+<!-- ================================================= -->
+<!--                CONTRIBUTION ACTIVITY             -->
+<!-- ================================================= -->
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=junayeembd&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=junayeembd&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
 
 ---
+
+<!-- ================================================= -->
+<!--                  CURRENTLY LEARNING              -->
+<!-- ================================================= -->
 
 ## 📚 Currently Learning
 
-- Advanced Java & Software Development
-- Data Structures & Algorithms
-- Backend Development with Python and Flask
-- Database Design & Management
-- Software Engineering & System Design
-- Full-Stack Development
+- Advanced Java Programming.
+- Data Structures and Algorithms.
+- Backend Development with Python and Flask.
+- Database Design and Management.
+- Software Engineering and System Design.
+- Full-Stack Development.
 
 ---
 
-## 🎯 My Goals
+<!-- ================================================= -->
+<!--                    MY GOALS                      -->
+<!-- ================================================= -->
 
-<div align="center">
+## 🎯 Developer Goals
 
-| Goal | Focus |
-|:---|:---:|
-| Improve Problem Solving | 🧠 |
-| Build Real-World Projects | 💻 |
-| Master DSA & Algorithms | 🚀 |
-| Become a Full-Stack Developer | 🎯 |
-| Explore AI & IoT | 🌱 |
-
-</div>
+- Strengthen Programming and Problem-Solving Skills.
+- Master Data Structures and Algorithms.
+- Build Real-World Software Applications.
+- Improve Backend and Database Development Skills.
+- Become a Full-Stack Developer.
+- Explore AI and IoT Technologies.
 
 ---
+
+<!-- ================================================= -->
+<!--                    CONNECT                       -->
+<!-- ================================================= -->
 
 ## 🌐 Connect With Me
 
-<div align="center">
+**Email:** junayeemofficial@gmail.com
 
-<a href="mailto:junayeemofficial@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/junayeembd">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://codeforces.com/profile/junayeembd">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/junayeembd">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-<a href="https://x.com/junayeembd">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junayeemofficial@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/junayeembd)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/junayeembd)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/junayeembd)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/junayeembd)
 
-<br/><br/>
+---
 
-### Thanks for visiting my profile! ⭐
+<!-- ================================================= -->
+<!--                       FOOTER                      -->
+<!-- ================================================= -->
+
+## 💡 Developer Mindset
 
 **"Great things are built one line of code at a time."**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Always+Learning+%F0%9F%9A%80;Always+Building+%F0%9F%92%BB;Always+Improving+%E2%AD%90" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=36BCF7&left=true&vCenter=true&width=550&height=40&lines=Always+Learning+%F0%9F%9A%80;Always+Building+%F0%9F%92%BB;Always+Improving+%E2%AD%90" alt="Footer Animation"/>
 
-</div>
+**Thanks for visiting my GitHub Profile!** ⭐
 
 ## 💡 Quote
 
